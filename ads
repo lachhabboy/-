@@ -41,8 +41,8 @@
 
 			"StartappAds": "211203742",
 
-			"Cpa": false,
-			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif",
+			"Cpa": true,
+			"ImageUrl": "https://imgur.com/ZQ4sR11.gif",
 			"LinkCpa1": "https://cpbldi.com/911232e",
 			"LinkCpa2": "https://google.com/",
 
